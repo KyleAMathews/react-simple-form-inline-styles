@@ -1,25 +1,37 @@
 {
   "name": "react-simple-form-inline-styles",
-  "version": "1.0.0",
   "description": "Simple inline styles for React forms",
+  "version": "1.0.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/KyleAMathews/react-simple-form-inline-styles/issues"
+  },
+  "dependencies": {
+    "gray-percentage": "^1.0.2"
+  },
+  "devDependencies": {
+    "cjsx-loader": "^2.0.1",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.9.1",
+    "react": "^0.13.1",
+    "react-headroom": "^1.5.0",
+    "react-hot-loader": "^1.2.3",
+    "react-responsive-grid": "0.0.4",
+    "typography": "0.0.12",
+    "webpack": "^1.7.3",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "homepage": "https://github.com/KyleAMathews/react-simple-form-inline-styles",
+  "keywords": [
+    "form",
+    "forms",
+    "react",
+    "react-styles"
+  ],
+  "license": "MIT",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/KyleAMathews/react-simple-form-inline-styles.git"
-  },
-  "keywords": [
-    "react",
-    "react-styles",
-    "form",
-    "forms"
-  ],
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/KyleAMathews/react-simple-form-inline-styles/issues"
-  },
-  "homepage": "https://github.com/KyleAMathews/react-simple-form-inline-styles",
-  "devDependencies": {
-    "coffee-script": "^1.9.1"
   }
 }

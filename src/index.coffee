@@ -1,7 +1,4 @@
 gray = require 'gray-percentage'
-Typography = require 'typography'
-
-{rhythm} = require '../utils/typography'
 
 module.exports = (rhythm) ->
 
