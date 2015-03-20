@@ -1,0 +1,25 @@
+{
+  "name": "react-simple-form-inline-styles",
+  "version": "1.0.0",
+  "description": "Simple inline styles for React forms",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyleAMathews/react-simple-form-inline-styles.git"
+  },
+  "keywords": [
+    "react",
+    "react-styles",
+    "form",
+    "forms"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyleAMathews/react-simple-form-inline-styles/issues"
+  },
+  "homepage": "https://github.com/KyleAMathews/react-simple-form-inline-styles",
+  "devDependencies": {
+    "coffee-script": "^1.9.1"
+  }
+}
