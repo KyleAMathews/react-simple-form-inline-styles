@@ -17,7 +17,7 @@ module.exports = (rhythm) ->
       border: "1px solid"
       borderColor: gray(50)
       marginBottom: rhythm(1)
-      padding: "calc(#{rhythm(3/4)} - 2px)"
+      padding: "calc(#{rhythm(3/4)} - 1px)"
 
     button:
       fontSize: '1rem'
