@@ -17,15 +17,15 @@ module.exports = (rhythm) ->
       border: "1px solid"
       borderColor: gray(50)
       marginBottom: rhythm(1)
-      padding: "calc(#{rhythm(3/4)} - 2px)"
+      padding: "calc(#{rhythm(3/4)} - 1px)"
 
     button:
       fontSize: '1rem'
-      lineHeight: rhythm(1)
+      lineHeight: '1rem'
       border: 'none'
-      padding: "#{rhythm(0.25)} #{rhythm(.5)}"
+      padding: "#{rhythm(0.5)} #{rhythm(1)}"
       cursor: 'pointer'
-      borderRadius: rhythm(1/4)
+      borderRadius: '3px'
       backgroundColor: gray(80)
       color: gray(20)
       textShadow: 'none'
