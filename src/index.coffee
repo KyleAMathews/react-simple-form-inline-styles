@@ -21,11 +21,11 @@ module.exports = (rhythm) ->
 
     button:
       fontSize: '1rem'
-      lineHeight: rhythm(1)
+      lineHeight: '1rem'
       border: 'none'
-      padding: "#{rhythm(0.25)} #{rhythm(.5)}"
+      padding: "#{rhythm(0.5)} #{rhythm(1)}"
       cursor: 'pointer'
-      borderRadius: rhythm(1/4)
+      borderRadius: '3px'
       backgroundColor: gray(80)
       color: gray(20)
       textShadow: 'none'
