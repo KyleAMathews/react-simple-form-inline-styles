@@ -21,7 +21,7 @@ module.exports = (rhythm) ->
 
     button:
       fontSize: '1rem'
-      lineHeight: '1rem'
+      lineHeight: rhythm(1)
       border: 'none'
       padding: "#{rhythm(0.5)} #{rhythm(1)}"
       cursor: 'pointer'
