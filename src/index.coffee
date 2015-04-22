@@ -13,11 +13,12 @@ module.exports = (rhythm) ->
       marginBottom: rhythm(1/4)
 
     input:
-      width: '100%'
       border: "1px solid"
       borderColor: gray(50)
       marginBottom: rhythm(1)
       padding: "calc(#{rhythm(3/4)} - 1px)"
+      resize: 'none'
+      width: '100%'
 
     button:
       fontSize: '1rem'
